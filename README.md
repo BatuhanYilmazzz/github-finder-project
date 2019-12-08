@@ -1,5 +1,4 @@
 # GithubFinderProject
-# Exchange-Api
 
 This project is part OF javascript learning series project.In this project worked with GithubAPI and also used DOM manipulation.
 
