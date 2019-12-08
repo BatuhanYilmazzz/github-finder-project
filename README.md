@@ -1,6 +1,6 @@
 # GithubFinderProject
 
-This project is part OF javascript learning series project.In this project worked with GithubAPI and also used DOM manipulation.
+This project is part of javascript learning series project.In this project worked with GithubAPI and also used DOM manipulation.
 
 The full project requirements can be found 
 
