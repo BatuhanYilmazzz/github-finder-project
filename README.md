@@ -1,4 +1,4 @@
-# GithubFinderProject
+# GithubFinder Project
 
 This project is part of javascript learning series project.In this project worked with GithubAPI and also used DOM manipulation.
 
