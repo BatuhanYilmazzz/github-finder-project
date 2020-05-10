@@ -17,9 +17,9 @@ This project is part of javascript learning series project.In this project worke
 > Clone the repository to your local machine
 
 ```sh
-$ https://batuhanyilmazzz.github.io/GithubFinderProject/
+$ https://batuhanyilmazzz.github.io/github-finder-project/
 ```
-or just open from https://batuhanyilmazzz.github.io/GithubFinderProject/
+or just open from https://batuhanyilmazzz.github.io/github-finder-project/
 
 
 ## Author
